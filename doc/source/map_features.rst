@@ -14,6 +14,6 @@ Then setup s11n to load your exported objects:
 
 1. Copy your exported s11n model file to map's ``mapconfig`` folder.
 
-2. Copy `s11n_load_map_features.lua <https://github.com/Spring-SpringBoard/SpringBoard-Core/blob/master/libs_sb/s11n/s11n_load_map_features.lua>`_ to map's ``LuaGaia/Gadgets/`` folder.
+2. Copy `s11n_load_map_features.lua <https://github.com/gajop/s11n/blob/master/s11n_load_map_features.lua>`_ to map's ``LuaGaia/Gadgets/`` folder.
 
 3. Set the `file path <https://github.com/Spring-SpringBoard/SpringBoard-Core/blob/master/libs_sb/s11n/s11n_load_map_features.lua#L15>`_ to your s11n model file in the newly copied ``s11n_load_map_features.lua``
